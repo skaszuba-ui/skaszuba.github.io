@@ -1,0 +1,91 @@
+html {margin: auto}
+body {font-family: monospace;
+    background-color: #F7ECE1;
+    font-size: 15px;
+    margin-left: auto;
+    margin-right: auto}
+table {border-color: #723D46; 
+    border-style: dotted;
+    border-width: medium;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 20px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 1000px;
+    height: 315px;
+    position: relative} 
+td {border-color: #E26D5C; 
+    border-style: solid;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-top: 5px}
+/* unvisited link */
+a:link {color: #A3C4BC}
+/* visited link */
+a:visited {color: #8499B1}
+/* mouse over link */
+a:hover {color: #8783D1;
+    background-color: #e5d6d4}
+/* selected link */
+a:active {color: #A53860}
+tr {text-align: center}
+footer {position: relative;
+    text-align-last: center;
+    background-color: #344056;
+    color: antiquewhite;
+    margin-top: 15px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    width: 250px;
+    margin: 0 auto;
+    border-radius: 20px;
+    font-size: 13px}
+#h1 {position: relative;
+    text-align-last: center;
+    background-color: #A53860;
+    color: antiquewhite;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+    border-radius: 25px}
+#h2 {position:relative;
+    text-align-last: center}
+p {position: relative;
+    text-align: center;
+    text-decoration: underline;
+    color: #A26769}
+.order {position: relative;
+        background-color: #C7D3BF;
+        width: 170px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        align-content: center;
+        margin: 0 auto}
+.unorder {position: relative;
+        background-color: #32161F;
+        color: antiquewhite;
+        width: 225px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        align-content: center;
+        margin: 0 auto;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        line-height: 25px;
+        border-radius: 23px;
+        font-size: 13px}
+.book {font-style: italic}
+img {border-radius: 5px;
+    width: 200px}
+#h3 {color: #7CA982;
+    text-align-last: center}
